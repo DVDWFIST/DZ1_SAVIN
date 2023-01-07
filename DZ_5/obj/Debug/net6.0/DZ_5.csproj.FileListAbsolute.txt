@@ -1,0 +1,15 @@
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/bin/Debug/net6.0/DZ_5
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/bin/Debug/net6.0/DZ_5.deps.json
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/bin/Debug/net6.0/DZ_5.runtimeconfig.json
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/bin/Debug/net6.0/DZ_5.dll
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/bin/Debug/net6.0/DZ_5.pdb
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/obj/Debug/net6.0/DZ_5.csproj.AssemblyReference.cache
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/obj/Debug/net6.0/DZ_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/obj/Debug/net6.0/DZ_5.AssemblyInfoInputs.cache
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/obj/Debug/net6.0/DZ_5.AssemblyInfo.cs
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/obj/Debug/net6.0/DZ_5.csproj.CoreCompileInputs.cache
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/obj/Debug/net6.0/DZ_5.dll
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/obj/Debug/net6.0/refint/DZ_5.dll
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/obj/Debug/net6.0/DZ_5.pdb
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/obj/Debug/net6.0/DZ_5.genruntimeconfig.cache
+/home/dvdw/Рабочий стол/SavinAA _DZ!/DZ_5/obj/Debug/net6.0/ref/DZ_5.dll
