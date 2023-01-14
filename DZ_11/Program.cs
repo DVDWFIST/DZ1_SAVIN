@@ -23,4 +23,4 @@ Console.WriteLine("Введите число B: ");
 int b = Convert.ToInt32(Console.ReadLine());
 
 
-Console.WriteLine($"Числа {a} в степени {b} будет {Garbage(a, b)} ");
+Console.WriteLine($"Число {a} в степени {b} будет {Garbage(a, b)} ");
