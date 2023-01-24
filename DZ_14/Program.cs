@@ -33,4 +33,3 @@ void PositiveNumber (int[] array)
 int[] myArray = GetRandomArray(SIZE, LEFTRANGE, RIGHTRANGE);
 Console.WriteLine(string.Join(", ", myArray));
 PositiveNumber(myArray);
-
