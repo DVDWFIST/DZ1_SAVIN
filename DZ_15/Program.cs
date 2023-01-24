@@ -36,4 +36,3 @@ void CountNumber (int[] array)
 int[] myArray = GetRandomArray(SIZE, LEFTRANGE, RIGHTRANGE);
 Console.WriteLine(string.Join(", ", myArray));
 CountNumber(myArray);
-
