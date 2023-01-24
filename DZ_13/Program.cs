@@ -23,7 +23,6 @@ class ElementArray
         {
             Console.Write(myArray[i] + ", ");
         }
-
     }
 }
 
