@@ -14,14 +14,13 @@ void GetRandomMatrix(int rows, int columns)
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
             matrix[i, j] = new Random().NextDouble() * 10;
-            Console.Write("{0,8:F1}", matrix[i, j]);
+            Console.Write("{0,6:f1}", matrix[i, j]);
         }
         Console.WriteLine();
 
     }
 
 }
-
 
 
 Console.Write("Введите кол-во строк: ");
