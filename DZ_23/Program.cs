@@ -40,18 +40,18 @@ void PrintMatrix(int[,] matrix)
 
 void MinMaxNatrix(int[,] matrix)
 {
-    for (var i = 0; i < matrix.GetLength(0); i++)
-        for (var j = 0; j < matrix.GetLength(1); j++)
-            for (var k = 0; k < matrix.GetLength(1); k++)
+    for (int i = 0; i < matrix.GetLength(0); i++)
+        for (int j = 0; j < matrix.GetLength(1); j++)
+            for (int k = 0; k < matrix.GetLength(1); k++)
             {
                 if (matrix[i, j] <= matrix[i, k]) continue;
-                var temp = matrix[i, j];
+                int temp = matrix[i, j];
                 matrix[i, j] = matrix[i, k];
                 matrix[i, k] = temp;
             }
 
-    for (var i = 0; i < matrix.GetLength(0); i++, Console.WriteLine())
-        for (var j = 0; j < matrix.GetLength(1); j++)
+    for (int i = 0; i < matrix.GetLength(0); i++, Console.WriteLine())
+        for (int j = 0; j < matrix.GetLength(1); j++)
         {
             Console.Write(matrix[i, j] + " ");
         }
