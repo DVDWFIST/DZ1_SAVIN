@@ -33,7 +33,7 @@ int nextEl(string massage)
         resVal = Int32.TryParse(elem, out num);
         if(resVal == false)
         {
-            Console.WriteLine("Enter error! Try again!");
+            Console.WriteLine("Ошибка! Попробуйте еще раз.");
         }
     }
     return num;
